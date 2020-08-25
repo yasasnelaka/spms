@@ -1,0 +1,12 @@
+
+=---- ad marks ----= 
+public/marks/select-class
+
+=---- get individual mark list ----=
+public/marks/select-student
+
+=---- mark comparision graph ----=
+public/marks/individual
+
+=---- subjects comparision graph ----=
+public/compare/term-subject
