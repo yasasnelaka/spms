@@ -73,4 +73,4 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## sql configuration 
 
-import sql file befor run this project
+import sql file before run this project
